@@ -1,2 +1,2 @@
-# Beregsz-szi
+# Beregszaszi
 Órai anyagok
