@@ -13,7 +13,7 @@ namespace ProgOra3_18_1
             string adat = "";
 
             //Olvasás
-            StreamWriter iras = new StreamWriter("G:\\adatok.txt", true, Encoding.UTF8);
+            StreamWriter iras = new StreamWriter("E:\\adatok.txt", true, Encoding.UTF8);
             
 
             do
@@ -56,7 +56,7 @@ namespace ProgOra3_18_1
 
             //Beolvasás
 
-            StreamReader olvas = new StreamReader("G:\\adatok.txt");
+            StreamReader olvas = new StreamReader("E:\\adatok.txt");
             
 
             while (adat != null)

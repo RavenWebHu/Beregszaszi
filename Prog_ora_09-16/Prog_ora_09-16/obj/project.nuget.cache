@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FkdPrwDoR63gbQMUL8hxCu+RKFaDJQFyLjpecPz919TLKRfAOxuYVcL7+8ouPVqSJP/eTjQHOfTs/ghoU0cbuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2020533\\source\\repos\\RavenWebHu\\Beregszaszi\\Prog_ora_09-16\\Prog_ora_09-16\\Prog_ora_09-16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2020533\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

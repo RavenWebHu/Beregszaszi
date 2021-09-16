@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2020533\\Source\\Repos\\RavenWebHu\\Beregszaszi\\ProgOra3-18_1\\ProgOra3-18_1\\ProgOra3-18_1.csproj": {}
+    "C:\\Users\\2020533\\source\\repos\\RavenWebHu\\Beregszaszi\\Prog_ora_09-16\\Prog_ora_09-16\\Prog_ora_09-16.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2020533\\Source\\Repos\\RavenWebHu\\Beregszaszi\\ProgOra3-18_1\\ProgOra3-18_1\\ProgOra3-18_1.csproj": {
+    "C:\\Users\\2020533\\source\\repos\\RavenWebHu\\Beregszaszi\\Prog_ora_09-16\\Prog_ora_09-16\\Prog_ora_09-16.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2020533\\Source\\Repos\\RavenWebHu\\Beregszaszi\\ProgOra3-18_1\\ProgOra3-18_1\\ProgOra3-18_1.csproj",
-        "projectName": "ProgOra3-18_1",
-        "projectPath": "C:\\Users\\2020533\\Source\\Repos\\RavenWebHu\\Beregszaszi\\ProgOra3-18_1\\ProgOra3-18_1\\ProgOra3-18_1.csproj",
+        "projectUniqueName": "C:\\Users\\2020533\\source\\repos\\RavenWebHu\\Beregszaszi\\Prog_ora_09-16\\Prog_ora_09-16\\Prog_ora_09-16.csproj",
+        "projectName": "Prog_ora_09-16",
+        "projectPath": "C:\\Users\\2020533\\source\\repos\\RavenWebHu\\Beregszaszi\\Prog_ora_09-16\\Prog_ora_09-16\\Prog_ora_09-16.csproj",
         "packagesPath": "C:\\Users\\2020533\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2020533\\Source\\Repos\\RavenWebHu\\Beregszaszi\\ProgOra3-18_1\\ProgOra3-18_1\\obj\\",
+        "outputPath": "C:\\Users\\2020533\\source\\repos\\RavenWebHu\\Beregszaszi\\Prog_ora_09-16\\Prog_ora_09-16\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2020533\\AppData\\Roaming\\NuGet\\NuGet.Config",

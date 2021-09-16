@@ -11,3 +11,16 @@ C:\Users\SavageVoidling\source\repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOr
 C:\Users\SavageVoidling\source\repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\obj\Debug\netcoreapp3.1\ProgOra3-18_1.dll
 C:\Users\SavageVoidling\source\repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\obj\Debug\netcoreapp3.1\ProgOra3-18_1.pdb
 C:\Users\SavageVoidling\source\repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\obj\Debug\netcoreapp3.1\ProgOra3-18_1.genruntimeconfig.cache
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\bin\Debug\netcoreapp3.1\ProgOra3-18_1.exe
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\bin\Debug\netcoreapp3.1\ProgOra3-18_1.deps.json
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\bin\Debug\netcoreapp3.1\ProgOra3-18_1.runtimeconfig.json
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\bin\Debug\netcoreapp3.1\ProgOra3-18_1.runtimeconfig.dev.json
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\bin\Debug\netcoreapp3.1\ProgOra3-18_1.dll
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\bin\Debug\netcoreapp3.1\ProgOra3-18_1.pdb
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\obj\Debug\netcoreapp3.1\ProgOra3-18_1.csprojAssemblyReference.cache
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\obj\Debug\netcoreapp3.1\ProgOra3-18_1.AssemblyInfoInputs.cache
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\obj\Debug\netcoreapp3.1\ProgOra3-18_1.AssemblyInfo.cs
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\obj\Debug\netcoreapp3.1\ProgOra3-18_1.csproj.CoreCompileInputs.cache
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\obj\Debug\netcoreapp3.1\ProgOra3-18_1.dll
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\obj\Debug\netcoreapp3.1\ProgOra3-18_1.pdb
+C:\Users\2020533\Source\Repos\RavenWebHu\Beregszaszi\ProgOra3-18_1\ProgOra3-18_1\obj\Debug\netcoreapp3.1\ProgOra3-18_1.genruntimeconfig.cache
